@@ -57,7 +57,7 @@ export default function Home() {
   };
 
   return (
-    <main className="flex flex-col items-center py-20 text-black dark:text-neutral-200 dark:bg-neutral-800">
+    <main className="flex flex-col items-center py-20 px-4 text-black dark:text-neutral-200 dark:bg-neutral-800">
       <h2 className="font-bold text-3xl">
         Descubra se você sobreviveria ao naufrágio do Titanic
       </h2>
